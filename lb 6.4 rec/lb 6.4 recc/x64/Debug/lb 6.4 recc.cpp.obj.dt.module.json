@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\lb 6.4 recc.obj",
+            "outputs": [
+                "x64\\Debug\\lb 6.4 recc.cpp.obj.dt.module.json",
+                "x64\\Debug\\lb 6.4 recc.cpp.obj.dt.d.json",
+                "x64\\Debug\\lb 6.4 recc.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
